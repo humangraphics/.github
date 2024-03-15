@@ -50,7 +50,7 @@ Interested in contributing or learning more about our projects? Here are a few w
 
 We're here to build something great together. Let's make the most of demographic data and open new doors to innovation. Thank you for being part of our journey!
 
-For any questions or collaborations, feel free to reach out to us directly via the emails on our GitHub profiles.
+For any questions or collaborations, feel free to reach out to us directly at [hello@humangraphics.io](mailto:hello@humangraphics.io).
 
 Happy coding! 🚀
 
