@@ -39,6 +39,7 @@ Interested in contributing or learning more about our projects? Here are a few w
 - **Star our repositories** to stay up to date with the latest developments.
 - **Submit issues** for bugs you encounter or features you'd like to see.
 - **Propose pull requests** with improvements to our codebase.
+- **Check out [our roadmap](https://github.com/orgs/humangraphics/projects/1)** and let us know what we should work on next.
 - **Join the conversation:** Share your insights, ask questions, and connect with the HumanGraphics community.
 
 ## Stay Connected
