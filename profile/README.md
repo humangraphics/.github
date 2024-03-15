@@ -27,8 +27,8 @@ Our platform is built on a **serverless architecture**, leveraging the power and
 We're excited to announce that our team will be presenting at an upcoming tech talk about our journey to serverless architecture on [**Serverless Land**](https://serverlessland.com/). This will be a deep dive into the challenges we faced, the solutions we implemented, and the lessons we learned along the way.
 
 🗓 **Date:** March 19  
-🕒 **Time:** 12:00 PM CT
-📍 **Location:** [https://](https://www.youtube.com/serverlessland)
+🕒 **Time:** 12:00 PM CT  
+📍 **Location:** [https://www.youtube.com/serverlessland](https://www.youtube.com/serverlessland)
 
 This talk is a must for any developer interested in serverless technologies, architectural best practices, and the specifics of deploying high-scale applications on AWS.
 
