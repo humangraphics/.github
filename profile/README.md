@@ -8,7 +8,7 @@ At HumanGraphics, we're dedicated to revolutionizing how people interact with de
 
 At the core of HumanGraphics, we develop APIs that:
 
-- **Append Demographic Information:** Enhance your datasets with valuable demographic insights.
+- **Append Demographic Estimates:** Enhance your datasets with valuable demographic insights.
 - **To Whatever Data you Have:** From names and locations to photos and social profiles.
 - **That Promote Data-Driven Decisions:** Empower your applications with data that matters.
 
