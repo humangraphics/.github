@@ -30,7 +30,7 @@ Interested in learning more about HumanGraphics' technology? Check out these tec
 
 Our team presented about HumanGraphics' journey to serverless architecture on [**Serverless Land**](https://serverlessland.com/). The talk was a deep dive into the business and technology challenges we faced, the solutions we implemented, and the lessons we learned along the way. Viewers might be particularly interested in the [open-sourced Lambda layer](https://github.com/humangraphics/backend-lambda-layer) that allows HumanGraphics to host AI and ML models in AWS Lambda with minimal cold start times!
 
-🗓 **Date:** March 19, 2024
+🗓 **Date:** March 19, 2024  
 📍 **Location:** [Java AI/ML on Lambda with Human Graphics | Serverless Office Hours](https://www.youtube.com/watch?v=wy2QYgKAoEg)
 
 ## Get Involved
